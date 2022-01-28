@@ -1,5 +1,5 @@
 # ufc-prediction-senstivity-analysis
-Betting outcome sensitivity analysis for UFC machine learning predicitions
+## Betting outcome sensitivity analysis for UFC machine learning predicitions
 
 🎰 Calculates and visualizes the distribution of potential returns, and the binomial probability mass function (PMF) for the outcome of bets, enabling effective risk management.
 
