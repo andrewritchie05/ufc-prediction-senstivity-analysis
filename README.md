@@ -1,7 +1,13 @@
 # ufc-prediction-senstivity-analysis
 Betting outcome sensitivity analysis for UFC machine learning predicitions
 
-🎰 Calculates and visualizes the binomial probability mass function for the outcome of predictions, enabling effective risk management.
+🎰 Calculates and visualizes:
+- the binomial probability mass function (PMF) for the outcome of bets, enabling effective risk management.
+- the distribution of potential returns
+
+## PMF for UFC Fight Night: Font vs Aldo
+
+![alt text](https://github.com/andrewritchie05/ufc-prediction-senstivity-analysis/PMF.png?raw=true)
 
 - Evaluates the monetary value of all possible outcomes, and weighs them based on their relative probability (probability that r out of n trials are successful).
 - Uses a single value for probability of a correct prediction, so it is assumed that the ML classifier is well balanced.
