@@ -8,6 +8,7 @@ Calculates and visualizes the distribution of potential returns, and the binomia
 - Uses a single value for probability of a correct prediction, so it is assumed that the ML classifier is well balanced.
 - Assumes the total betting pool is spread evenly across each contest
 
+
 ### PMF for UFC Fight Night: Font vs Aldo:
 
 ![alt text](https://github.com/andrewritchie05/ufc-prediction-senstivity-analysis/blob/main/PMF.png?raw=true)
